@@ -1,5 +1,5 @@
 # Python-Web-Scrapping---Search-Engine-
-This is part of a search engine project. It involves scrapping through a n html page, static or online.
+This is part of a search engine project. It involves scrapping through an html page or url, static or online.
 It elimates stopwords and gives the frequency of the search word.
 ### How to set up the project
 It this project we will use BeautifulSoup , nltk and requests which can each be installed as follows
