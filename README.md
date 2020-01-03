@@ -4,7 +4,7 @@ It elimates stopwords and gives the frequency of the search word.
 ### How to set up the project
 It this project we will use BeautifulSoup , nltk and requests which can each be installed as follows
 ##### **pip install bs4**
-##### **pip install reqquests**
+##### **pip install requests**
 ##### **pip install nltk**
 #### Note: for nltk:
 Open the python shell and run the following :
